@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/bin/Debug/net7.0/ejerciciosenclase
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/bin/Debug/net7.0/ejerciciosenclase.deps.json
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/bin/Debug/net7.0/ejerciciosenclase.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/bin/Debug/net7.0/ejerciciosenclase.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/bin/Debug/net7.0/ejerciciosenclase.pdb
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/refint/ejerciciosenclase.dll
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.pdb
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ejerciciosenclase.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/ejerciciosenclase/ejerciciosenclase/obj/Debug/net7.0/ref/ejerciciosenclase.dll
